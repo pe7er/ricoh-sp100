@@ -27,7 +27,7 @@ If you have troubles with printing:
 
  2) Remove all /tmp/pstoricohddst-gdi* directories if found
 
- 3) Enable debug behavior by editing `/usr/lib/cups/filterpstoricohddst-gdi`
+ 3) Enable debug behavior by editing `/usr/lib/cups/filter/pstoricohddst-gdi`
     file (line 4)
 
  4) Re-install printer in cups, make sure printing queue is clear
